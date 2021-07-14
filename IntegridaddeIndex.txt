@@ -1,0 +1,2 @@
+SHA de la pagina
+7e92dff26f79fae7155017745bdf0db5ef7af4cd1a86fb96f91b8fd1fec74b4e  index.html
